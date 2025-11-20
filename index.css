@@ -6,7 +6,7 @@ nav{
 .leftmove{
   display: flex;
   align-items: center;
-  justify-content: right;
+  justify-content: right; 
 }
 .i{
   display: grid;
@@ -301,4 +301,5 @@ h3{
   grid-template-rows: repeat(5,1fr);
   height: 200vh;
   }
+
 }
