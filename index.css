@@ -6,11 +6,11 @@ nav{
 .leftmove{
   display: flex;
   align-items: center;
-  justify-content: right; 
+  justify-content: right;   
 }
 .i{
   display: grid;
-  grid-template-columns: 40px;
+  grid-template-columns: 40px; 
 }
 #i{
   display: none;
@@ -303,3 +303,4 @@ h3{
   }
 
 }
+
