@@ -10,14 +10,14 @@
 <script>
   $(document).ready(function(){ 
     $("#home").click(function(){
-      window.location.href="index.html";
+      window.location.href="index.html"; 
     });
-    $("input").on('mouseenter',function(){ 
+    $("input").on('mouseenter',function(){  
       $(this).addClass('jqueryHover');
     }); 
     $("input").on('mouseleave',function(){
       $(this).removeClass('jqueryHover');
-    });
+    }); 
     $(".submit").click(function(){
       $("body").css("background-color","green");
       alert("Application submitted");
@@ -143,5 +143,6 @@
 </body>
 
 </html>
+
 
 
