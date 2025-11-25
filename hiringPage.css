@@ -26,7 +26,7 @@ ul{
   display: grid;
   grid-template-columns: repeat(6,1fr);
 }
-.jqueryHover{
+.jqueryHover{ 
   transform: scale(1.3); 
 }
 ul {
@@ -240,4 +240,5 @@ li{
     margin-right: 7%;
     }
 }
+
 
