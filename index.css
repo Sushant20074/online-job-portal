@@ -11,7 +11,7 @@ nav{
 .i{
   display: grid;
   grid-template-columns: 40px;    
-}
+} 
 #i{
   display: none;
   height: 100%;
@@ -303,5 +303,6 @@ h3{
   }
 
 }
+
 
 
