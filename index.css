@@ -10,7 +10,7 @@ nav{
 }
 .i{
   display: grid;
-  grid-template-columns: 40px; 
+  grid-template-columns: 40px;    
 }
 #i{
   display: none;
@@ -303,4 +303,5 @@ h3{
   }
 
 }
+
 
