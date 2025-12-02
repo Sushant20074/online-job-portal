@@ -32,7 +32,7 @@ ul {
     margin: 0;
     padding: 0;
     place-items: center;
-  }
+  } 
   li{
     align-items: center;
     color:  black;
@@ -303,6 +303,7 @@ h3{
   }
 
 }
+
 
 
 
