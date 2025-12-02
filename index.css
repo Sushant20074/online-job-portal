@@ -8,7 +8,7 @@ nav{
   align-items: center; 
   justify-content: right;   
 }
-.i{
+.i{ 
   display: grid;
   grid-template-columns: 40px;    
 } 
@@ -303,6 +303,7 @@ h3{
   }
 
 }
+
 
 
 
