@@ -9,7 +9,7 @@ nav{
  
 .i{
   display: grid;
-  grid-template-columns: 40px;
+  grid-template-columns: 40px; 
   background-color: transparent;
   box-shadow: none;
 }
@@ -240,6 +240,7 @@ li{
     margin-right: 7%;
     }
 }
+
 
 
 
