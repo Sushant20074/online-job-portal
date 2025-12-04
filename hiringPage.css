@@ -6,7 +6,7 @@ nav{
   grid-template-columns:40px 1fr 1fr;
   grid-template-rows: 10vh 100%; 
 } 
-
+ 
 .i{
   display: grid;
   grid-template-columns: 40px;
@@ -240,6 +240,7 @@ li{
     margin-right: 7%;
     }
 }
+
 
 
 
