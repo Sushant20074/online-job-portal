@@ -5,7 +5,7 @@ nav{
 }
 .leftmove{
   display: flex;
-  align-items: center; 
+  align-items: center;  
   justify-content: right;   
 }
 .i{ 
@@ -303,6 +303,7 @@ h3{
   }
 
 }
+
 
 
 
