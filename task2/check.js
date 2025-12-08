@@ -12,3 +12,4 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
     alert('Login successful!');
     // Redirect to another page or perform any other necessary actions
 });
+
