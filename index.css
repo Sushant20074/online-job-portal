@@ -4,7 +4,7 @@ nav{
     grid-template-rows: 10vh 100%;  
 }
 .leftmove{ 
-  display: flex;
+  display: flex; 
   align-items: center; 
   justify-content: right;    
 } 
@@ -303,6 +303,7 @@ h3{
   }
 
 }
+
 
 
 
