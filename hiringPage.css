@@ -16,7 +16,7 @@ nav{
   display: none;
   height: 100%;
   width: 100%; 
-  float: right; 
+  float: right;  
   transform: scale(2);
   text-align: center;
   margin-top: -2vh;
@@ -239,6 +239,7 @@ li{
     margin-right: 7%;
     }
 }
+
 
 
 
