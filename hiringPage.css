@@ -7,7 +7,7 @@ nav{
   grid-template-rows: 10vh 100%; 
 }     
 .i{  
-  display: grid;  
+  display: grid;   
   grid-template-columns: 40px; 
   background-color: transparent;   
   box-shadow: none;  
@@ -239,6 +239,7 @@ li{
     margin-right: 7%;
     }
 }
+
 
 
 
