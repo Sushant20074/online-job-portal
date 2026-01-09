@@ -13,7 +13,7 @@ nav{
   box-shadow: none;  
 } 
 #i{
-  display: none;
+  display: none; 
   height: 100%; 
   width: 100%; 
   float: right;   
@@ -239,6 +239,7 @@ li{
     margin-right: 7%;
     }
 }
+
 
 
 
