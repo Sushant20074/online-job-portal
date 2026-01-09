@@ -9,7 +9,7 @@ nav{
   justify-content: right;     
 }  
 .i{  
-  display: grid;
+  display: grid; 
   grid-template-columns: 40px;    
 } 
 #i{ 
@@ -303,6 +303,7 @@ h3{
   }
 
 }
+
 
 
 
