@@ -22,7 +22,7 @@ nav{
   margin-top: 6vh;
 }
 a{
-  text-decoration: none;
+  text-decoration: none; 
   color: black; 
 }
 ul {
@@ -303,6 +303,7 @@ h3{
   }
 
 }
+
 
 
 
