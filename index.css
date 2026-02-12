@@ -16,7 +16,7 @@ nav{
   display: none;
   height: 100%; 
   width: 100%;
-  float: left;
+  float: left; 
   transform: scale(2);
   text-align: center;
   margin-top: 6vh;
@@ -303,6 +303,7 @@ h3{
   }
 
 }
+
 
 
 
