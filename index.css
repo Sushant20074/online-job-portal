@@ -3,7 +3,7 @@ nav{
     grid-template-columns: 40px 1fr 1fr;
     grid-template-rows: 10vh 100%;  
 } 
-.leftmove{  
+.leftmove{   
   display: flex;   
   align-items: center;    
   justify-content: right;       
@@ -303,6 +303,7 @@ h3{
   }
 
 }
+
 
 
 
