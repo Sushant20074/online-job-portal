@@ -9,7 +9,7 @@ nav{
 .i{          
   display: grid;      
   grid-template-columns: 40px;   
-  background-color: transparent;     
+  background-color: transparent;      
   box-shadow: none;    
 } 
 #i{       
